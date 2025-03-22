@@ -2,7 +2,7 @@
 - 19/2/2025 - long overdue, i plan to start working on projects and learning things soon
 after finally graduating highschool
 - 11/03/2025
-- 08/04/2025
+- 02/04/2025
 - 18/05/2025
 
 - z
