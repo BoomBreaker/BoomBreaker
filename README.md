@@ -3,9 +3,12 @@
 after finally graduating highschool
 - 11/03/2025
 - 02/04/2025
-- 18/05/2025
+
 
 - z
+
+oh we cooked
+2026 go again 
 
 [![discord](https://discord.c99.nl/widget/theme-3/888679832651718687.png)](https://discordid.netlify.app/?id=888679832651718687)
 <!--
