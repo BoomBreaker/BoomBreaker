@@ -1,14 +1,12 @@
 ## Hi there 👋
+this is a log.
 - 19/2/2025 - long overdue, i plan to start working on projects and learning things soon
 after finally graduating highschool
 - 11/03/2025
 - 02/04/2025
 
 
-- z
-
-oh we cooked
-2026 go again 
+- 04/08/2025 - well this is stretched out too long. we'll see. probably hard to learn stuff this year.
 
 [![discord](https://discord.c99.nl/widget/theme-3/888679832651718687.png)](https://discordid.netlify.app/?id=888679832651718687)
 <!--
