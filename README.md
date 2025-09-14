@@ -5,8 +5,8 @@ this is a log.
 
 - 19/02/2025 - long overdue, i plan to start working on projects and learning things soon
 after finally graduating highschool
-- 11/03/2025
-- 02/04/2025
+- 11/03/2025 - graduated highschool
+- 02/04/2025 - uni entrance exam, didnt go well so i wont be going to college this year
 
 
 - 04/08/2025 - well this is stretched out too long. we'll see. probably hard to learn stuff this year.
