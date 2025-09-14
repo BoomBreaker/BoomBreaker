@@ -14,6 +14,7 @@ after finally graduating highschool
 - 14/09/2025 - im learning how to do competitive programming problems ! im having fun. will stick to this only till i get into college. wont do dev stuff.
 - [codeforces profile : BoomBreaker](https://codeforces.com/profile/BoomBreaker)
 
+- my discord :
 [![discord](https://discord.c99.nl/widget/theme-3/888679832651718687.png)](https://discordid.netlify.app/?id=888679832651718687)
 <!--
 **BoomBreaker/BoomBreaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
