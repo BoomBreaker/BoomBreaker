@@ -15,6 +15,7 @@ after finally graduating highschool
 - [codeforces profile : BoomBreaker](https://codeforces.com/profile/BoomBreaker)
 
 - my discord :
+  
 [![discord](https://discord.c99.nl/widget/theme-3/888679832651718687.png)](https://discordid.netlify.app/?id=888679832651718687)
 <!--
 **BoomBreaker/BoomBreaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
