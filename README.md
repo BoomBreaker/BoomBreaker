@@ -19,6 +19,10 @@ after finally graduating highschool
 [![discord](https://discord.c99.nl/widget/theme-3/888679832651718687.png)](https://discordid.netlify.app/?id=888679832651718687)
 
 - 17/11/2025 - was making little progress, but busy with studies, gonna take a break from competitive programming till exam is done ! gonna grind after it !
+
+- 13/05/2026 - HEYA IM BACK ! - almost ! been a while :)
+- done with exams! going to college soon!
+- excited to learn and solve problems right away from now!!!
 <!--
 **BoomBreaker/BoomBreaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
