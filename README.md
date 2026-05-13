@@ -25,6 +25,7 @@ after finally graduating highschool
 - 13/05/2026 - HEYA IM BACK ! - almost ! been a while :)
 - done with exams! going to college soon!
 - excited to learn and solve problems right away from now!!!
+- plan to learn more low level computing stuff later on as i get into college because it seems intriguing
 <!--
 **BoomBreaker/BoomBreaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
